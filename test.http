@@ -10,6 +10,7 @@ POST http://localhost:9000/snippets
 content-type: application/json
 
 {
+    "title": "test title",
     "content": "this is some test content"
 }
 
@@ -22,5 +23,6 @@ PUT http://localhost:9000/snippets/DBCC2857
 content-type: application/json
 
 {
+    "title": "this is the new title",
     "content": "qpdjqwopdkqwpodk12pok3p123k1p2o3k!!!"
 }
