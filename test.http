@@ -19,10 +19,10 @@ DELETE http://localhost:9000/snippets/DBCC2857
 
 
 ### PUT a single snippet
-PUT http://localhost:9000/snippets/DBCC2857
+PUT http://localhost:9000/snippets/JMGDhUNl
 content-type: application/json
 
 {
-    "title": "this is the new title",
-    "content": "qpdjqwopdkqwpodk12pok3p123k1p2o3k!!!"
+    "title": "asdasdasdasd",
+    "content": "321321321"
 }
